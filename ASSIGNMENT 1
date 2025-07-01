@@ -1,9 +1,0 @@
-ASSIGNMENT1/README.md 
-cd ASSIGNMENT 1
-touch array.c
-touch bank.c
-touch employee.c
-git add array.c
-git add bank.c
-git add employee.c
-git push
